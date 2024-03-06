@@ -1,0 +1,11 @@
+{
+    "useWorkspaceDependencies": true,
+    "validation": {
+        "template": true,
+        "style": true,
+        "script": true
+    },
+    "experimental": {
+        "templateInterpolationService": true
+    }
+}
